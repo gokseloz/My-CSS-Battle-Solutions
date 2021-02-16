@@ -6,7 +6,7 @@
 
 ## My Solution
 
-```CSS
+```
 <div class="rect"></div>
 <div class="circle"></div>
 <style>
