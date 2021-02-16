@@ -6,7 +6,7 @@
 
 ## My Solution
 
-```CSS
+```
 <style>
   body{
     background:#62374e;
