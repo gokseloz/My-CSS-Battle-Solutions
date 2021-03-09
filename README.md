@@ -54,5 +54,8 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
    <tr>
     <td>#012 - Wiggly Moustache</td><td><b>Easy</b</td>
   </tr>
+  <tr>
+    <td>#013 - Totally Triangle</td><td><b>Easy</b</td>
+  </tr>
                 
  </table>
