@@ -7,55 +7,41 @@
 ## My Solution
 
 ```
-<div>
-  <span></span>
-   <span></span>
-</div>
+<div></div>
+<div></div>
+<div></div>
 <style>
   body{
-    background:#F5D6B4;
+    background-color:#62306D;
     display:flex;
     justify-content:center;
-    align-items:center;
+    align-items:flex-end;
+    margin:0;
   }
   div{
-    width: 60px;
-    height: 30px;
-    border-radius:100px 100px 0 0;
-    border:20px solid #D86F45;
-    border-bottom:none;
-    margin-top:-50px;
+    width:100px;
+    height:100px;
+    background-color:#F7EC7D;
     position:relative;
   }
-  span{
-    position:absolute;
-    width: 60px;
-    height: 30px;
-    top:30px;
-    border-radius:0 0 100px 100px;
-    border:20px solid #D86F45;
-    border-top:none;
+  div:nth-child(2){
+    height:200px
   }
-  span:after{
+  div:after{
     content:"";
     position:absolute;
-    background:#D86F45;
-    width:20px;
-    height:20px;
-    top:-10px;
+    width:60px;
+    height:60px;
     border-radius:50%;
+    top:0;
+    left:50%;
+    transform:translate(-50%,-50%);
+ 	background-color:#E38F66;
+    box-shadow:0 0 0 20px #AA445F;
   }
-  span:nth-child(1){
-   left:-100;
-  }
-  span:nth-child(1):after{
-  left:-20px;
-  }
-  span:nth-child(2){
-   right:-100;
-  }
-  span:nth-child(2):after{
-    right:-20px;
+  div:nth-child(2):after{
+    background-color:#AA445F;
+    box-shadow:0 0 0 20px #E38F66;
   }
 </style>
 ```
