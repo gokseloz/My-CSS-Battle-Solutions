@@ -20,9 +20,9 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
     <td>#001 - Simple-Square.md</td><td><b>Easy</b></td>
   </tr>
   <tr>
-    <td><b>#002 - Carrom.md</b></td><td><b>Easy</b</td>
+    <td>#002 - Carrom.md</td><td><b>Easy</b</td>
   </tr>
   <tr>
-    <td><b>#003 - Push Button.md</b></td><td><b>Easy</b</td>
+    <td>#003 - Push Button.md</td><td><b>Easy</b</td>
   </tr>
  </table>
