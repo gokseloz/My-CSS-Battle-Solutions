@@ -15,6 +15,8 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
   </tr>
  </table>
 
+## How hard is the targets for me?
+
 <table>
   <tr>
     <td>#001 - Simple-Square</td><td><b>Easy</b></td>
