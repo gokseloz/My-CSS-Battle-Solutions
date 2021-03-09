@@ -17,12 +17,40 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
 
 <table>
   <tr>
-    <td>#001 - Simple-Square.md</td><td><b>Easy</b></td>
+    <td>#001 - Simple-Square</td><td><b>Easy</b></td>
   </tr>
   <tr>
-    <td>#002 - Carrom.md</td><td><b>Easy</b</td>
+    <td>#002 - Carrom</td><td><b>Easy</b</td>
   </tr>
   <tr>
-    <td>#003 - Push Button.md</td><td><b>Easy</b</td>
+    <td>#003 - Push Button</td><td><b>Easy</b</td>
   </tr>
+  <tr>
+    <td>#004 - Ups n Downs</td><td><b>Easy</b</td>
+  </tr>
+  <tr>
+    <td>#005 - Acid Rain</td><td><b>Medium</b</td>
+  </tr>
+  <tr>
+    <td>#006 - Missing Slice</td><td><b>Easy</b</td>
+  </tr>
+  <tr>
+    <td>#007 - Leafy Trail</td><td><b>Easy</b</td>
+  </tr>
+  <tr>
+    <td>#008 - Forking Crazy</td><td><b>Easy</b</td>
+  </tr>
+  <tr>
+    <td>#009 - Tesseract</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#010 - Cloaked Spirits</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#011 -Eye of Sauron</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#012 - Wiggly Moustache</td><td><b>Easy</b</td>
+  </tr>
+                
  </table>
