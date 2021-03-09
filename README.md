@@ -14,3 +14,15 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
     <td><b>Hard</b></td><td> With lots of help</td>
   </tr>
  </table>
+
+<table>
+  <tr>
+    <td><b>#001 - Simple-Square.md</b></td><td>Easy</td>
+  </tr>
+  <tr>
+    <td><b>#002 - Carrom.md</b></td><td>Easy</td>
+  </tr>
+  <tr>
+    <td><b>#003 - Push Button.md</b></td><td>Easy</td>
+  </tr>
+ </table>
