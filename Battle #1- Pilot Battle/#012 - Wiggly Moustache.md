@@ -46,13 +46,13 @@
     border-radius:50%;
   }
   span:nth-child(1){
-   left:-100;
+   left:-100px
   }
   span:nth-child(1):after{
   left:-20px;
   }
   span:nth-child(2){
-   right:-100;
+   right:-100px
   }
   span:nth-child(2):after{
     right:-20px;
