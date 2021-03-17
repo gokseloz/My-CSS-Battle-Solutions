@@ -58,10 +58,10 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
     <td>#013 - Totally Triangle</td><td><b>Easy</b</td>
   </tr>
   <tr>
-    <td>#014 - Totally Triangle</td><td><b>Easy</b</td>
+    <td>#014 - Web Maker Logo</td><td><b>Easy</b</td>
   </tr>
   <tr>
-    <td>#015 - Totally Triangle</td><td><b>Easy</b</td>
+    <td>#015 - Overlap</td><td><b>Easy</b</td>
   </tr>
                 
  </table>
