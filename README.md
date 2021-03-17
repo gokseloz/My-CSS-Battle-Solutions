@@ -57,5 +57,11 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
   <tr>
     <td>#013 - Totally Triangle</td><td><b>Easy</b</td>
   </tr>
+  <tr>
+    <td>#014 - Totally Triangle</td><td><b>Easy</b</td>
+  </tr>
+  <tr>
+    <td>#015 - Totally Triangle</td><td><b>Easy</b</td>
+  </tr>
                 
  </table>
