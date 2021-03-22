@@ -105,5 +105,14 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
   <tr>
     <td>#029 - Suffocate</td><td><b>Medium</b</td>
   </tr>
+  <tr>
+    <td>#030 - Horizon</td><td><b>Easy</b</td>
+  </tr>
+  <tr>
+    <td>#031 - Equals</td><td><b>Easy</b</td>
+  </tr>
+  <tr>
+    <td>#032 - Band-aid</td><td><b>Easy</b</td>
+  </tr>
                 
  </table>
