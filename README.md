@@ -63,5 +63,44 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
   <tr>
     <td>#015 - Overlap</td><td><b>Easy</b</td>
   </tr>
+   <tr>
+    <td>#016 - Overlap</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#017 - Overlap</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#018 - Overlap</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#019 - Overlap</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#020 - Overlap</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#021 - Overlap</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#022 - Overlap</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#023 - Overlap</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#024 - Overlap</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#025 - Overlap</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#026 - Overlap</td><td><b>Easy</b</td>
+  </tr>
+   <tr>
+    <td>#027 - Overlap</td><td><b>Easy</b</td>
+  </tr>
+    <tr>
+    <td>#028 - Overlap</td><td><b>Easy</b</td>
+  </tr>
                 
  </table>
