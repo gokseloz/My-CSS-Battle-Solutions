@@ -64,43 +64,43 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
     <td>#015 - Overlap</td><td><b>Easy</b</td>
   </tr>
    <tr>
-    <td>#016 - Overlap</td><td><b>Easy</b</td>
+    <td>#016 - Eye of the Tiger</td><td><b>Easy</b</td>
   </tr>
    <tr>
-    <td>#017 - Overlap</td><td><b>Easy</b</td>
+    <td>#017 - Fidget Spinner</td><td><b>Easy</b</td>
   </tr>
    <tr>
-    <td>#018 - Overlap</td><td><b>Easy</b</td>
+    <td>#018 - Matrix</td><td><b>Easy</b</td>
   </tr>
    <tr>
-    <td>#019 - Overlap</td><td><b>Easy</b</td>
+    <td>#019 - Cube</td><td><b>Medium</b</td>
   </tr>
    <tr>
-    <td>#020 - Overlap</td><td><b>Easy</b</td>
+    <td>#020 - Ticket</td><td><b>Easy</b</td>
   </tr>
    <tr>
-    <td>#021 - Overlap</td><td><b>Easy</b</td>
+    <td>#021 - SitePoint Logo</td><td><b>Easy</b</td>
   </tr>
    <tr>
-    <td>#022 - Overlap</td><td><b>Easy</b</td>
+    <td>#022 - Cloud</td><td><b>Easy</b</td>
   </tr>
    <tr>
-    <td>#023 - Overlap</td><td><b>Easy</b</td>
+    <td>#023 - Boxception</td><td><b>Easy</b</td>
   </tr>
    <tr>
-    <td>#024 - Overlap</td><td><b>Easy</b</td>
+    <td>#024 - Switches</td><td><b>Easy</b</td>
   </tr>
    <tr>
-    <td>#025 - Overlap</td><td><b>Easy</b</td>
+    <td>#025 - Blossom</td><td><b>Easy</b</td>
   </tr>
    <tr>
-    <td>#026 - Overlap</td><td><b>Easy</b</td>
+    <td>#026 - Smiley</td><td><b>Easy</b</td>
   </tr>
    <tr>
-    <td>#027 - Overlap</td><td><b>Easy</b</td>
+    <td>#027 - Lock Up</td><td><b>Easy</b</td>
   </tr>
     <tr>
-    <td>#028 - Overlap</td><td><b>Easy</b</td>
+    <td>#028 - Cups & Balls</td><td><b>Easy</b</td>
   </tr>
                 
  </table>
