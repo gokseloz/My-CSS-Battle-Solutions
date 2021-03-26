@@ -3,116 +3,57 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
 
 ## My Difficulty Levels
 
-<table>
-  <tr>
-    <td><b>Easy</b></td><td>Without any help</td>
-  </tr>
-  <tr>
-    <td><b>Medium</b></td><td>With a little of help</td>
-  </tr>
-  <tr>
-    <td><b>Hard</b></td><td> With lots of help</td>
-  </tr>
- </table>
+| Easy  | Medium | Hard |
+| ----- | ------ | ---- |
+| Without any help  | With a little of help  | 	With lots of help  |
 
 ## How hard is the target for me?
 
-<table>
-  <tr>
-    <td>#001 - Simple-Square</td><td><b>Easy</b></td>
-  </tr>
-  <tr>
-    <td>#002 - Carrom</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#003 - Push Button</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#004 - Ups n Downs</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#005 - Acid Rain</td><td><b>Medium</b</td>
-  </tr>
-  <tr>
-    <td>#006 - Missing Slice</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#007 - Leafy Trail</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#008 - Forking Crazy</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#009 - Tesseract</td><td><b>Easy</b</td>
-  </tr>
-   <tr>
-    <td>#010 - Cloaked Spirits</td><td><b>Easy</b</td>
-  </tr>
-   <tr>
-    <td>#011 -Eye of Sauron</td><td><b>Easy</b</td>
-  </tr>
-   <tr>
-    <td>#012 - Wiggly Moustache</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#013 - Totally Triangle</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#014 - Web Maker Logo</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#015 - Overlap</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#016 - Eye of the Tiger</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#017 - Fidget Spinner</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#018 - Matrix</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#019 - Cube</td><td><b>Medium</b</td>
-  </tr>
-  <tr>
-    <td>#020 - Ticket</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#021 - SitePoint Logo</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#022 - Cloud</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#023 - Boxception</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#024 - Switches</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#025 - Blossom</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#026 - Smiley</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#027 - Lock Up</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#028 - Cups & Balls</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#029 - Suffocate</td><td><b>Medium</b</td>
-  </tr>
-  <tr>
-    <td>#030 - Horizon</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#031 - Equals</td><td><b>Easy</b</td>
-  </tr>
-  <tr>
-    <td>#032 - Band-aid</td><td><b>Easy</b</td>
-  </tr>
-                
- </table>
+|     |     |
+| --- | --- |
+| #001 - Simple-Square  | **Easy**  |
+| #002 - Carrom  | **Easy**  |
+| #003 - Push Button  | **Easy**  |
+| #004 - Ups n Downs  | **Easy**  |
+| #005 - Acid Rain  | **Medium**  |
+| #006 - Missing Slice  | **Easy**  |
+| #007 - Leafy Trail  | **Easy**  |
+| #008 - Forking Crazy  | **Easy**  |
+| #009 - Tesseract  | **Easy**  |
+| #010 - Cloaked Spirits  | **Easy**  |
+| #011 -Eye of Sauron  | **Easy**  |
+| #012 - Wiggly Moustache  | **Easy**  |
+| #013 - Totally Triangle  | **Easy**  |
+| #014 - Web Maker Logo  | **Easy**  |
+| #015 - Overlap | **Easy**  |
+| #016 - Eye of the Tiger  | **Easy**  |
+| #017 - Fidget Spinner  | **Easy**  |
+| #018 - Matrix  | **Easy**  |
+| #019 - Cube  | **Medium**  |
+| #020 - Ticket  | **Easy**  |
+| #021 - SitePoint Logo  | **Easy**  |
+| #022 - Cloud  | **Easy**  |
+| #023 - Boxception  | **Easy**  |
+| #024 - Switches  | **Easy**  |
+| #025 - Blossom  | **Easy**  |
+| #026 - Smiley  | **Easy**  |
+| #027 - Lock Up  | **Easy**  |
+| #028 - Cups & Balls | **Easy**  |
+| #029 - Suffocate | **Medium**  |
+| #030 - Horizon | **Easy**  |
+| #031 - Equals | **Easy**  |
+| #032 - Band-aid | **Easy**  |
+| #033 - Birdie | **Easy**  |
+| #034 - Christmas Tree | **Easy**  |
+| #035 - Ice Cream | **Easy**  |
+| #036 - Interleaved | **Easy**  |
+| #037 - Tunnel | **Easy**  |
+| #038 - Not Simply Square | **Easy**  |
+| #039 - Sunset | **Easy**  |
+| #040 - Letter B | **Easy**  |
+| #041 - Fox Head | **Easy**  |
+
+
+
+  
+
