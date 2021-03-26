@@ -1,34 +1,40 @@
-# 37 - Not Simply Square
+# 38 - Not Simply Square
 
 ## Target
 
-![CSS Battle Challenge](https://cssbattle.dev/targets/37.png)
+![CSS Battle Challenge](https://cssbattle.dev/targets/38.png)
 
 ## My Solution
 
 ```
 <div></div>
-<span></span>
-<span></span>
+<div><span></span><span></span><span></span></div>
 <style>
-  body{background:#293462;margin:0}
+  body{background:#1A4341;}
   div {
+    position:Absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
     width:200px;
     height:200px;
-    background:#FFF1C1;
+    background:#998235;
+    border-radius:50%;
+  }
+  div:nth-of-type(2){
+    border-radius:50%/ 250px;
+    width:250px;
+    height:140px;
+    background:#1A4341;
+    overflow:hidden;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-evenly
   }
   span{
-    width:200px;
-    height:100px;
-    position:absolute;
-    bottom:0;
-    background:linear-gradient(to right, #FE5F55 75%, #A64942 0%)
-  }
-  span:nth-of-type(2){
-    top:50px;
-    left:150px;
-    transform:rotate(90deg);
+    width:100%;
+    height:20px;
+    background:#F3AC3C;
   }
 </style>
-
 ```
