@@ -52,7 +52,9 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
 | #039 - Sunset | **Easy**  |
 | #040 - Letter B | **Easy**  |
 | #041 - Fox Head | **Easy**  |
-
+| #042 - Baby | **Easy**  |
+| #043 - Wrench | **Easy**  |
+| #044 - Stripe | **Medium**  |
 
 
   
