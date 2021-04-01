@@ -55,7 +55,7 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
 | #042 - Baby | **Easy**  |
 | #043 - Wrench | **Easy**  |
 | #044 - Stripe | **Medium**  |
-
+| #045 - Magical Tree | **Easy**  |
 
   
 
