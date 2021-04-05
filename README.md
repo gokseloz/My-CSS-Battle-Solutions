@@ -56,6 +56,16 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
 | #043 - Wrench | **Easy**  |
 | #044 - Stripe | **Medium**  |
 | #045 - Magical Tree | **Easy**  |
+| #046 - Mountains | **Easy**  |
+| #047 - Corona Virus | **Easy**  |
+| #048 - Wash Your Hands | **Easy**  |
+| #049 - Stay at Home | **Easy**  |
+| #050 - Use Hand Sanitizer | **Easy**  |
+| #051 - Wear a Mask | **Easy**  |
+
+
+
+
 
   
 
