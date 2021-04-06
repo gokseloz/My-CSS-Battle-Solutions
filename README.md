@@ -62,10 +62,12 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
 | #049 - Stay at Home | **Easy**  |
 | #050 - Use Hand Sanitizer | **Easy**  |
 | #051 - Wear a Mask | **Easy**  |
-
-
-
-
-
-  
-
+| #052 - Break the Chain | **Easy**  |
+| #053 - Pastel Logo | **Easy**  |
+| #054 - Black Lives Matter | **Easy**  |
+| #055 - Windmill | **Easy**  |
+| #056 - Skull | **Easy**  |
+| #057 - Pillars | **Easy**  |
+| #058 - Rose | **Easy**  |
+| #059 - Earth | **Medium**  |
+| #060 - Evil Triangles | **Easy**  |
