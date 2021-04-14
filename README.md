@@ -71,3 +71,10 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
 | #058 - Rose | **Easy**  |
 | #059 - Earth | **Medium**  |
 | #060 - Evil Triangles | **Easy**  |
+| #061 - ImprovMX | **Medium**  |
+| #062 - Sunset | **Easy**  |
+| #063 - Command Key | **Easy**  |
+| #064 - Door Knob | **Easy**  |
+| #065 - Max Volume | **Easy**  |
+| #066 - Batmicky.md | **Medium**  |
+
