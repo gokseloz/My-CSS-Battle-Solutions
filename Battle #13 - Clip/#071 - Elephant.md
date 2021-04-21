@@ -14,14 +14,17 @@
 <a trunk></a>
 <style>
   body{margin:0;background:#998235}
+  
   div,span,p,a,:after,:before{position:absolute}
+  
   :after,:before{content:""}
+  
   [head]{
     width:180px;
     height:180px;
     background:#1A4341;
     border-radius:50%;
-	left:110px;
+    left:110px;
     top:60px;
   }
   div:before,div:after{
