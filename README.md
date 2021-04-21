@@ -3,9 +3,9 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
 
 ## My Difficulty Levels
 
-| Easy  | Medium | Hard |
-| ----- | ------ | ---- |
-| Without any help  | With a little of help  | 	With lots of help  |
+| Easy  | Medium |
+| ----- | ------ |
+| Without any help  | With a little of help  |
 
 ## How hard is the target for me?
 
@@ -76,5 +76,12 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
 | #063 - Command Key | **Easy**  |
 | #064 - Door Knob | **Easy**  |
 | #065 - Max Volume | **Easy**  |
-| #066 - Batmicky.md | **Medium**  |
+| #066 - Batmicky | **Medium**  |
+| #067 - Video Reel | **Easy**  |
+| #068 - Bell | **Easy**  |
+| #069 - PushOwl | **Easy**  |
+| #070 - Froggy | **Easy**  |
+| #071 - Elephant | **Easy**  |
+| #072 - Sheep | **Easy**  |
+
 
