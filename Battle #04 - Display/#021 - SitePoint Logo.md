@@ -12,23 +12,21 @@
 <style>
   body{margin:0;background:#222;display:flex;justify-content:centeR;align-items:center}
   div {
-	width:100px;
+    width:100px;
     height:80px;
     transform:rotate(-45deg);
     position:relative;
     top:-24.5px;
     left:38px;
-    filter:blur(.5px)
   }
   div:after{
     content: "";
     position:absolute;
     top:0;
-    width:100;
+    width:100px;
     height:29.8px;
     background:#F2994A;
     border-radius:10px 0 0 0
-
   }
   div:before{
     content: "";
