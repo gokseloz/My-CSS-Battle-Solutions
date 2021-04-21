@@ -8,33 +8,26 @@
 
 ```
 <div></div>
-<div><span></span><span></span><span></span></div>
+<span></span>
+<span></span>
 <style>
-  body{background:#1A4341;}
+  body{background:#293462;margin:0}
   div {
-    position:Absolute;
-    top:50%;
-    left:50%;
-    transform:translate(-50%,-50%);
     width:200px;
     height:200px;
-    background:#998235;
-    border-radius:50%;
-  }
-  div:nth-of-type(2){
-    border-radius:50%/ 250px;
-    width:250px;
-    height:140px;
-    background:#1A4341;
-    overflow:hidden;
-    display:flex;
-    flex-direction:column;
-    justify-content:space-evenly
+    background:#FFF1C1;
   }
   span{
-    width:100%;
-    height:20px;
-    background:#F3AC3C;
+    width:200px;
+    height:100px;
+    position:absolute;
+    bottom:0;
+    background:linear-gradient(to right, #FE5F55 75%, #A64942 0%)
+  }
+  span:nth-of-type(2){
+    top:50px;
+    left:150px;
+    transform:rotate(90deg);
   }
 </style>
 ```
