@@ -83,5 +83,10 @@ cssbattle.dev is a platform where people use their HTML and CSS skills to replic
 | #070 - Froggy | **Easy**  |
 | #071 - Elephant | **Easy**  |
 | #072 - Sheep | **Easy**  |
+| #073 - Happy Tiger | **Easy**  |
+| #074 - Danger Noodle | **Medium**  |
+| #075 - Hippo | **Easy**  |
+| #076 - Beeee | **Easy**  |
+
 
 
