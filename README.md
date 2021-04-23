@@ -7,7 +7,7 @@ cssbattle.dev is a platform where people use their CSS skills to replicate the t
 | ----- | ------ |
 | Without any help  | With a little of help  |
 
-## How hard is the target for me?
+## How hard was the target for me?
 
 |     |     |
 | --- | --- |
