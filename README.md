@@ -87,6 +87,8 @@ cssbattle.dev is a platform where people use their CSS skills to replicate the t
 | #074 - [Danger Noodle](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2313%20-%20Clip/%23074%20-%20Danger%20Noodle.md) | **Medium**  |
 | #075 - [Hippo](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2313%20-%20Clip/%23075%20-%20Hippo.md) | **Easy**  |
 | #076 - [Beeee](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2313%20-%20Clip/%23076%20-%20Beeee.md) | **Easy**  |
+| #077 - [Notes](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2314%20-%20ZIndex/%23077%20-%20Notes.md) | **Easy**  |
+
 
 
 
