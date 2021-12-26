@@ -1,4 +1,4 @@
-# 83 - Diamond Cut
+# 83 - Supernova
 
 ## Target
 
