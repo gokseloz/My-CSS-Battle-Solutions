@@ -1,4 +1,4 @@
-# 85 - Diamond Cut
+# 85 - Pythagoras
 
 ## Target
 
