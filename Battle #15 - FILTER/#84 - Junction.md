@@ -1,4 +1,4 @@
-# 84 - Diamond Cut
+# 84 - Junction
 
 ## Target
 
