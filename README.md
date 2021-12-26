@@ -90,7 +90,14 @@ cssbattle.dev is a platform where people use their CSS skills to replicate the t
 | #077 - [Notes](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2314%20-%20ZIndex/%23077%20-%20Notes.md) | **Easy**  |
 | #078 - [Ukulele](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2314%20-%20ZIndex/%23078%20-%20Ukulele.md) | **Easy**  |
 | #079 - [Tambourine](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2314%20-%20ZIndex/%23079%20-%20Tambourine.md) | **Medium**  |
-| #080 - [Piano](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2314%20-%20ZIndex/%23080%20-%20Piano.md) | **Easy**  |
+| #081 - [Odoo](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2315%20-%20FILTER/%2381%20-%20Odoo.md) | **Easy**  |
+| #082 - [Diamond Cut](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2315%20-%20FILTER/%2382%20-%20Diamond%20Cut.md) | **Easy**  |
+| #083 - [Supernova](https://github.com/gokseloz/My-CSS-Battle-Solutions/edit/master/Battle%20%2315%20-%20FILTER/%2383%20-%20Supernova.md) | **Easy**  |
+| #084 - [Junction](https://github.com/gokseloz/My-CSS-Battle-Solutions/edit/master/Battle%20%2315%20-%20FILTER/%2384%20-%20Junction.md) | **Easy**  |
+| #085 - [Pythagoras](https://github.com/gokseloz/My-CSS-Battle-Solutions/edit/master/Battle%20%2315%20-%20FILTER/%2385%20-%20Pythagoras.md) | **Easy**  |
+| #086 - [Stairway](https://github.com/gokseloz/My-CSS-Battle-Solutions/edit/master/Battle%20%2315%20-%20FILTER/%2386%20-%20Stairway.md) | **Easy**  |
+| #087 - [Building Blocks](https://github.com/gokseloz/My-CSS-Battle-Solutions/edit/master/Battle%20%2315%20-%20FILTER/%2387%20-%20Diamond%20Cut.md) | **Medium**  |
+
 
 
 
