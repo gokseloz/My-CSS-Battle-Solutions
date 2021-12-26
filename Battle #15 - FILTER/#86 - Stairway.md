@@ -1,4 +1,4 @@
-# 86 - Diamond Cut
+# 86 - Stairway
 
 ## Target
 
