@@ -1,4 +1,4 @@
-# 87 - Diamond Cut
+# 87 - Building Blocks
 
 ## Target
 
