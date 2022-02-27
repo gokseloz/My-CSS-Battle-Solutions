@@ -95,8 +95,21 @@ cssbattle.dev is a platform where people use their CSS skills to replicate the t
 | #083 - [Supernova](https://github.com/gokseloz/My-CSS-Battle-Solutions/edit/master/Battle%20%2315%20-%20FILTER/%2383%20-%20Supernova.md) | **Easy**  |
 | #084 - [Junction](https://github.com/gokseloz/My-CSS-Battle-Solutions/edit/master/Battle%20%2315%20-%20FILTER/%2384%20-%20Junction.md) | **Easy**  |
 | #085 - [Pythagoras](https://github.com/gokseloz/My-CSS-Battle-Solutions/edit/master/Battle%20%2315%20-%20FILTER/%2385%20-%20Pythagoras.md) | **Easy**  |
-| #086 - [Stairway](https://github.com/gokseloz/My-CSS-Battle-Solutions/edit/master/Battle%20%2315%20-%20FILTER/%2386%20-%20Stairway.md) | **Easy**  |
-| #087 - [Building Blocks](https://github.com/gokseloz/My-CSS-Battle-Solutions/edit/master/Battle%20%2315%20-%20FILTER/%2387%20-%20Diamond%20Cut.md) | **Medium**  |
+| #086 - [Stairway](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2315%20-%20FILTER/%2386%20-%20Stairway.md) | **Easy**  |
+| #087 - [Building Blocks](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2315%20-%20FILTER/%2387%20-%20Building%20Blocks.md) | **Medium**  |
+| #088 - [Tight Corner](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2315%20-%20FILTER/%2388%20-%20Tight%20Corner.md) | **Easy**  |
+| #089 - [Summit](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2316%20-%20ASPECT/%2389%20-%20Summit.md) | **Easy**  |
+| #090 - [Eclipse](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2316%20-%20ASPECT/%2390%20-%20Eclipse.md) | **Easy**  |
+| #091 - [Reflection](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2316%20-%20ASPECT/%2391%20-%20Reflection.md) | **Easy**  |
+| #092 - [Squeeze](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2316%20-%20ASPECT/%2392%20-%20Squeeze.md) | **Medium**  |
+| #093 - [Great Wall](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2316%20-%20ASPECT/%2393%20-%20Great%20Wall.md) | **Medium**  |
+| #094 - [Ripples](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2316%20-%20ASPECT/%2394%20-%20Ripples.md) | **Easy**  |
+| #095 - [Pokeball](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2316%20-%20ASPECT/%2395%20-%20Pokeball.md) | **Easy**  |
+| #096 - [Mandala](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2316%20-%20ASPECT/%2396%20-%20Mandala.md) | **Medium**  |
+| #097 - [Snowman](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2317%20-%20Christmas/%2397%20-%20Snowman.md) | **Easy**  |
+
+
+
 
 
 
