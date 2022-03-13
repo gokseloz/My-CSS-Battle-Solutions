@@ -107,6 +107,8 @@ cssbattle.dev is a platform where people use their CSS skills to replicate the t
 | #095 - [Pokeball](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2316%20-%20ASPECT/%2395%20-%20Pokeball.md) | **Easy**  |
 | #096 - [Mandala](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2316%20-%20ASPECT/%2396%20-%20Mandala.md) | **Medium**  |
 | #097 - [Snowman](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2317%20-%20Christmas/%2397%20-%20Snowman.md) | **Easy**  |
+| #098 - [Candle](https://github.com/gokseloz/My-CSS-Battle-Solutions/blob/master/Battle%20%2317%20-%20Christmas/%2398%20-%20Candle.md) | **Easy**  |
+
 
 
 
